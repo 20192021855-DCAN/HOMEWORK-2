@@ -2,7 +2,7 @@
 
 #### P6
 
-a: ![](http://latex.codecogs.com/gif.latex?\\d_{prop} = m / s)
+a: ![](http://latex.codecogs.com/gif.latex?\\d_{prop}=m/s)
 
 b: ![](http://latex.codecogs.com/gif.latex?\\d_{trans} = L / R)
 
